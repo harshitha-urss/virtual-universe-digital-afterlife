@@ -202,10 +202,10 @@ HARSHITHA M V
 AI & ML Engineer done this project as a part of final year project
 
 Research Interests:
-Artificial Intelligence
-Generative AI
-Multimodal Systems
-Deep Learning
-Machine Learning
-Retrieval-Augmented Models
-Responsible AI
+- Artificial Intelligence
+- Generative AI
+- Multimodal Systems
+- Deep Learning
+- Machine Learning
+- Retrieval-Augmented Models
+- Responsible AI
