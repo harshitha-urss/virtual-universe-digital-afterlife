@@ -197,7 +197,7 @@ This project prioritizes responsible AI over exposure.
 
 ## Author
 
-HARSHITHA M V
+**HARSHITHA M V**
 
 AI & ML Engineer done this project as a part of final year project
 
