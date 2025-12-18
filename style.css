@@ -23,9 +23,6 @@ body {
 
 section {
     padding: 60px 20px;
-    opacity: 0;
-    transform: translateY(30px);
-    transition: 0.6s ease;
 }
 
 h2 {
@@ -90,3 +87,4 @@ footer {
     background: #111;
     margin-top: 40px;
 }
+
