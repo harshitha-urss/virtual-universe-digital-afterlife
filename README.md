@@ -1,4 +1,4 @@
-# 🌌 Virtual Universe Construction for Digital Afterlife using Generative Neural Networks
+# Virtual Universe Construction for Digital Afterlife using Generative Neural Networks
 
 > A large-scale multimodal AI research and engineering project focused on building a **persistent, interactive digital persona** capable of generating **text, voice, and facial
 video responses** using generative neural networks.
@@ -39,7 +39,7 @@ Detailed implementation details can be discussed in an **academic or institution
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 The **Virtual Universe** system explores how generative AI can be used to construct a *digital afterlife–style interactive presence* by combining:
 
@@ -49,9 +49,9 @@ The **Virtual Universe** system explores how generative AI can be used to constr
 - Audio-driven facial animation
 
 Given a **natural language query**, the system produces:
-1. 📄 Context-aware **text response**
-2. 🔊 Natural-sounding **voice output**
-3. 🎭 Lip-synced **facial video response**
+1.  Context-aware **text response**
+2.  Natural-sounding **voice output**
+3.  Lip-synced **facial video response**
 
 Each modality is implemented as an **independent module**, enabling scalability, experimentation, and future research extensions.
 
@@ -171,7 +171,7 @@ The complete project involved:
 
 Only non-sensitive, academically appropriate components are shared here.
 
-## 🔐 Ethical & Legal Responsibility (Critical):
+## Ethical & Legal Responsibility (Critical):
 
 Certain implementation details are intentionally not open-sourced.
 
@@ -198,6 +198,7 @@ This project prioritizes responsible AI over exposure.
 ## Author
 
 HARSHITHA M V
+
 AI & ML Engineer done this project as a part of final year project
 
 Research Interests:
