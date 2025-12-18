@@ -88,12 +88,13 @@ footer {
     margin-top: 40px;
 }
 
-/* Source Code Button - Light Blue */
+/* Force Dark Blue Source Code Button */
 .source-btn {
-    background: #b3e5ff;   /* light blue */
-    color: #003366;
+    background-color: #0a1aff !important;   /* DARK BLUE */
+    color: white !important;
+    border: 2px solid white;
 }
 
 .source-btn:hover {
-    background: #99dbff;
+    background-color: #0000cc !important;
 }
