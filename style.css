@@ -25,6 +25,13 @@ section {
     padding: 60px 20px;
 }
 
+section p {
+    max-width: 800px;
+    margin: 0 auto 20px;
+    line-height: 1.6;
+    text-align: center;
+}
+
 h2 {
     color: cyan;
     margin-bottom: 20px;
